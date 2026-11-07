@@ -12,7 +12,7 @@ A hand-built, regulated DC power supply that converts 220 V AC mains into adjust
 
 *Top view with the main parts labelled.*
 
-![Underside of the Veroboard showing the tracks](images/underside_tracks.jpg)
+![Underside of the Veroboard showing the tracks](images/annotated_underside_tracks.png)
 
 *Underside of the Veroboard showing the track layout and solder joints.*
 
