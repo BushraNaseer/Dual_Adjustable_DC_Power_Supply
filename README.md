@@ -115,5 +115,5 @@ dual-adjustable-power-supply/
 ├── README.md
 └── images/
     ├── annotated_top_view.png
-    └── underside_tracks.jpg
+    └── annotated_underside_tracks.png
 ```
